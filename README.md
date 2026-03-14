@@ -42,5 +42,12 @@ The dataset includes information about:
 - Delivery delays showed correlation with lower customer review scores.
 - Freight costs varied significantly across regions.
 
+## Business Recommendations
+
+• Improve logistics planning during high-demand months such as November.
+• Optimize freight pricing strategies across regions to reduce cost imbalance.
+• Reduce delivery delays to improve customer satisfaction and review ratings.
+• Promote installment payment options to increase high-value order conversions.
+
 ## Business Impact
 The insights help identify operational inefficiencies and opportunities for improving logistics performance and customer satisfaction.
