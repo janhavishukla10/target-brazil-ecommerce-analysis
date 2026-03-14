@@ -1,4 +1,10 @@
 # Target Brazil E-Commerce Analysis
+
+## Case Study Report
+
+Full project report can be viewed here:
+
+- [View Full Case Study](Business%20Case%20Study%20SQL%20-%20Janhavi.pdf)
 ## Project Overview
 This project analyzes 100K+ e-commerce orders from a Brazilian retail dataset to identify logistics inefficiencies, delivery performance issues, and customer behavior trends.
 
