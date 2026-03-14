@@ -1,4 +1,4 @@
-# Target Brazil E-Commerce Analysis
+# target-brazil-ecommerce-case-study.pdf
 
 ## Project Overview
 This project analyzes 100K+ e-commerce orders from a Brazilian retail dataset to identify logistics inefficiencies, delivery performance issues, and customer behavior trends.
