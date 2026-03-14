@@ -23,6 +23,13 @@ The dataset includes information about:
 - Data Analysis
 - Exploratory Data Analysis (EDA)
 
+## Key Insights
+
+• Sales increased significantly in November due to festive demand patterns.
+• Delivery delays showed strong correlation with lower customer review scores.
+• Freight costs varied significantly across regions, indicating logistics inefficiencies.
+• Customers preferred installment-based payments for higher value orders.
+
 ## Key Analysis
 - Order volume trends across months and years
 - Delivery delays and logistics performance
