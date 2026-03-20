@@ -1,4 +1,4 @@
-# Target Brazil E-Commerce Analysis
+# Target - Brazil E-Commerce Analysis
 
 ## Case Study Report
 
